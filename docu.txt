@@ -3,6 +3,4 @@ hecho para un ejemplo
 en el curso de platzi
 llamado:
 
-curso profesional de git y github
-soy carlos
-su vida y obra maestra
+mañana nos enfocaremos en su vida laboral
