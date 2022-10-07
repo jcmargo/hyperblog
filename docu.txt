@@ -3,4 +3,6 @@ hecho para un ejemplo
 en el curso de platzi
 llamado:
 
-mañana nos enfocaremos en su vida laboral3
+main 1
+
+mañana nos enfocaremos en su vida laboral
