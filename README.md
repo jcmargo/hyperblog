@@ -1,2 +1,2 @@
 # hyperblog
-blg para el curso de git y github profesional de platzi
+blog para el curso de git y github profesional de platzi
